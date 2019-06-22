@@ -1,0 +1,17 @@
+{
+  "name": "ibmwatson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "personality-text-summary": "^2.2.0",
+    "twit": "^2.2.11",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
